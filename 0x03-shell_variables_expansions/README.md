@@ -5,3 +5,4 @@ Create a script that lists global environment variables
 Create a script that lists all local variables and environment variables, and functions
 Create a script that creates a new local variable
 Create a script that creates a new global variable
+Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
